@@ -9,7 +9,7 @@ make sure you have
    > /MFR<br />
    > README.MD<br />
 
-2. text parquet file if not get it from here: https://drive.google.com/file/d/1DwXRLUqc7W4fLAtZR3XWiLva0Dc2VBAY/view?usp=sharing<br />
+2.EngineeringHistory3Books_text.parquet if not get it from here: https://drive.google.com/file/d/1DwXRLUqc7W4fLAtZR3XWiLva0Dc2VBAY/view?usp=sharing<br />
 
 conda environment that used for this part is: LMMRAGwithGPU from computer 391<br />
 .env for test can use .env_for_testing<br />
